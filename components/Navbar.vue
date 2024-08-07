@@ -204,7 +204,9 @@ const isActive = (path) => {
   margin-right: 10px;
 }
 .search {
-  font-size: 25px;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
   cursor: pointer;
 }
 .nav-list {
