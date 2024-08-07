@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{c as t,o as a,p as c,e as d,a as s}from"./Cwcww4q5.js";const n={name:"mediaCenter"},r=e=>(c("data-v-0c14d8dd"),e=e(),d(),e),p=r(()=>s("h1",null,"media center",-1)),_=[p];function i(e,m,l,f,u,h){return a(),t("div",null,_)}const v=o(n,[["render",i],["__scopeId","data-v-0c14d8dd"]]);export{v as default};
